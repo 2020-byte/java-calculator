@@ -95,4 +95,4 @@ src/main/java/org/example/calculator/
 - Unit test coverage
 
 ## Links
-- [TIL 정리](https://velog.io/@alia/JS와-비교하며-자바와-익숙해지기)
+- [TIL Summary](https://velog.io/@alia/JS와-비교하며-자바와-익숙해지기)
